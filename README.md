@@ -10,4 +10,3 @@ A beautiful e-commerce template with flat design.
 
 Open `localhost:8080` to open the app!
 
-Demo - https://react-template-arshad.now.sh/
